@@ -1,0 +1,6 @@
+2019-04-18 13:14:50.080 10746-10746/edu.washington.briando.activityspy I/ActivitySpy: onCreate event fired
+2019-04-18 13:14:50.082 10746-10746/edu.washington.briando.activityspy I/ActivitySpy: onStart event fired
+2019-04-18 13:14:50.085 10746-10746/edu.washington.briando.activityspy I/ActivitySpy: onResume event fired
+2019-04-18 13:15:00.220 10746-10746/edu.washington.briando.activityspy I/ActivitySpy: onPause event fired
+2019-04-18 13:15:00.236 10746-10746/edu.washington.briando.activityspy I/ActivitySpy: onStop event fired
+2019-04-18 13:15:04.242 10746-10746/edu.washington.briando.activityspy E/ActivitySpy: We're going down captain!
