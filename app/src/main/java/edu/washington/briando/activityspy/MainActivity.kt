@@ -38,4 +38,9 @@ class MainActivity : AppCompatActivity() {
         super.onDestroy()
         Log.e(TAG, "We're going down captain!")
     }
+
+    override fun onRestart() {
+        super.onRestart()
+        Log.i(TAG, "onRestart event fired")
+    }
 }
